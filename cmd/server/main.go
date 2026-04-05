@@ -11,7 +11,7 @@ import (
 
 	"github.com/parmeet20/golang-chatapp/internal/auth"
 	"github.com/parmeet20/golang-chatapp/internal/config"
-	"github.com/parmeet20/golang-chatapp/internal/database"
+	"github.com/parmeet20/golang-chatapp/internal/infra/database"
 	"github.com/parmeet20/golang-chatapp/internal/message"
 	"github.com/parmeet20/golang-chatapp/internal/room"
 	"github.com/parmeet20/golang-chatapp/internal/routes"
